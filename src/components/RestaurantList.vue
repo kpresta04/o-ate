@@ -1,9 +1,9 @@
 <template>
-  <div>Restaurant List</div>
+  <div>RestaurantList</div>
 </template>
 
 <script>
-export default {};
+export default {
+  name: 'RestaurantList',
+};
 </script>
-
-<style lang="scss" scoped></style>

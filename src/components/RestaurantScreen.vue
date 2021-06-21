@@ -1,6 +1,6 @@
 <template>
   <div>
-    Rscreen
+    <h1>Restaurants</h1>
 
     <restaurant-list />
   </div>
