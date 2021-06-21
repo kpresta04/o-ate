@@ -1,5 +1,9 @@
 <template>
-  <div>RestaurantList</div>
+  <div>
+    <ul>
+      <li data-testid="restaurant" />
+    </ul>
+  </div>
 </template>
 
 <script>
